@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolionew/static/css/main.91dcade1.css",
+    "main.js": "/portfolionew/static/js/main.85bf86ee.js",
+    "static/js/787.a71561b8.chunk.js": "/portfolionew/static/js/787.a71561b8.chunk.js",
+    "static/media/shega.png": "/portfolionew/static/media/shega.c44a0754e268480cb29d.png",
+    "static/media/eldelicios.png": "/portfolionew/static/media/eldelicios.709e9394815ba07bd318.png",
+    "static/media/avatar.png": "/portfolionew/static/media/avatar.0f956fdc96130985514a.png",
+    "static/media/about.png": "/portfolionew/static/media/about.99398da51706e2d167a6.png",
+    "static/media/home-main.png": "/portfolionew/static/media/home-main.936186cd397c2ff70479.png",
+    "static/media/pageNpen.png": "/portfolionew/static/media/pageNpen.8ba743c2628cdff83630.png",
+    "static/media/pre.gif": "/portfolionew/static/media/pre.1cab38e239faa4b93751.gif",
+    "static/media/snake.jpg": "/portfolionew/static/media/snake.54ff5b5b65870d5c2f47.jpg",
+    "static/media/leanding.jpeg": "/portfolionew/static/media/leanding.6a51bef6a49e868b165c.jpeg",
+    "static/media/amazon.jpg": "/portfolionew/static/media/amazon.8674e9e218f1baa5aa37.jpg",
+    "static/media/netflix.jpg": "/portfolionew/static/media/netflix.50b048892fa60dc79631.jpg",
+    "static/media/home-bg.jpg": "/portfolionew/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/qr.jpg": "/portfolionew/static/media/qr.f0d0d94442188a59664c.jpg",
+    "static/media/logo.png": "/portfolionew/static/media/logo.28ef15699a0d261b5321.png",
+    "static/media/nilestream.png": "/portfolionew/static/media/nilestream.4ce52b9c20a3c82477d0.png",
+    "static/media/apple.jpg": "/portfolionew/static/media/apple.ca9bc1020c6418de4102.jpg",
+    "index.html": "/portfolionew/index.html",
+    "main.91dcade1.css.map": "/portfolionew/static/css/main.91dcade1.css.map",
+    "main.85bf86ee.js.map": "/portfolionew/static/js/main.85bf86ee.js.map",
+    "787.a71561b8.chunk.js.map": "/portfolionew/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91dcade1.css",
+    "static/js/main.85bf86ee.js"
+  ]
+}
